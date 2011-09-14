@@ -109,3 +109,66 @@ Installing RDoc documentation for activeresource-2.3.5...
 Installing RDoc documentation for rails-2.3.5...
 ubuntu@--:~/downloads/rubygems-1.3.7$ 
 gi
+
+
+20110910 other installs
+   8  sudo apt-get install libgdal-ruby
+   19  sudo apt-get install apache2
+   27  sudo apt-get install ruby1.8
+   28  sudo apt-get install screen unzip emacs git-core irb apache2
+   29  sudo apt-get install git
+   30  sudo apt-get install gdal-bin libmapscript-ruby1.8 cgi-mapserver mapserver-bin
+   31  sudo apt-get install libpgsql-ruby1.8
+   32  sudo apt-get install libgdal-ruby1.8 imagemagick
+   33  sudo apt-get install libreadline libreadline-ruby1.8
+   34  sudo apt-get install libreadline
+   35  sudo apt-get install libreadline-ruby1.8
+   37  sudo apt-get install libxml2-dev ruby1.8-dev libmagick9-dev
+   39  sudo apt-get install ruby
+   55  sudo apt-get install rubygems1.8
+  127  sudo apt-get update
+  128  sudo apt-get install postgis
+  131  sudo apt-get install postgresql-client-common 
+  135  sudo apt-get install postgres-8,4
+  136  sudo apt-get install postgres-8.4
+  137  sudo apt-get install postgres
+  139  sudo apt-get install postgresql-8.4
+  140  sudo apt-get install postgis
+  149  sudo apt-get install geos
+  151  sudo apt-get install libgeos-dev
+  153  sudo apt-get install libgeos-3.2.0 
+  154  sudo apt-get install postgresql-server-dev-8.4 
+  189  sudo apt-get install sqlite3
+  192  sudo apt-get install libsqlite3-dev
+  221  sudo apt-get install libxlst
+  222  sudo apt-get install libxslt-dev libxml2-dev
+  246  sudo apt-get install libcurl4-openssl-dev apache2-prefork-dev libapr1-dev libaprutil1-dev 
+  284  sudo apt-get install postfix
+  286  sudo apt-get install mailutils
+  314  sudo apt-get install gdal-bin 
+  319  sudo  apt-get install libgdal-1.6.0
+  320  sudo  apt-get install libgdal1-1.6.0
+  330  sudo apt-get install libapache2-mod-xsendfile 
+  686  sudo apt-get install nmap
+
+
+  52  sudo gem install -v=2.3.5 rails
+   56  sudo gem install -v=2.3.5 rails
+  160  sudo gem list
+  161  sudo gem install postgres
+  162  sudo gem list
+  175  sudo gem install fastercsv
+  177  sudo gem install oauth
+  179  sudo gem install geo_ruby
+  180  sudo gem install GeoRuby
+  182  sudo gem install rspec
+  185  sudo gem install rspec -V=1.3.0
+  186  sudo gem install rspec -v=1.3.0
+  188  sudo gem install sqlite3
+  190  sudo gem install sqlite3
+  191  sudo gem install libsqlite3-dev
+  193  sudo gem install sqlite3
+  220  sudo gem install nokogiri
+  223  sudo gem install nokogiri
+  239  sudo gem install yahoo-geoplanet
+  244  sudo gem install passenger
