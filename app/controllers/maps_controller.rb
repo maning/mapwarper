@@ -100,7 +100,7 @@ class MapsController < ApplicationController
     sort_init 'updated_at'
     sort_update
 
-    extents = [-74.1710,40.5883,-73.4809,40.8485] #NYC
+    extents = [116.8879556,4.4149,126.605,21.1211] #PH
 
     #TODO change to straight javascript call.
     if params[:place] && !params[:place].blank?
