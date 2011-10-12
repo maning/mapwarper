@@ -60,13 +60,14 @@ var mapnik = new OpenLayers.Layer.TMS("OSM Mapnik", "http://tile.openstreetmap.o
 });
 
 
+
 var jpl_wms = new OpenLayers.Layer.WMS("NASA Landsat 7", ["http://t1.hypercube.telascience.org/tiles?",
 "http://t2.hypercube.telascience.org/tiles?",
 "http://t3.hypercube.telascience.org/tiles?",
 "http://t4.hypercube.telascience.org/tiles?"], {  
     layers: "landsat7"  
 
-//new OpenLayers.Layer.VirtualEarth("Bing Aerial",{
+//var jpl_wms = new OpenLayers.Layer.VirtualEarth("Bing Aerial",{
 //     key: "AoAjaRIWbVjgdKYOrnIPbh3VLbh1jKrfPfXPq1ogAwhp6s-CJ3VllX132A_bxTg3",
 //     type: "Aerial",
 //     sphericalMercator: "true"
