@@ -70,7 +70,7 @@ var jpl_wms = new OpenLayers.Layer.WMS("NASA Landsat 7", ["http://t1.hypercube.t
 //var jpl_wms = new OpenLayers.Layer.VirtualEarth("Bing Aerial",{
 //     key: "AoAjaRIWbVjgdKYOrnIPbh3VLbh1jKrfPfXPq1ogAwhp6s-CJ3VllX132A_bxTg3",
 //     type: "Aerial",
-//     sphericalMercator: "true"
+//     sphericalMercator: "false"
 
 });
 
