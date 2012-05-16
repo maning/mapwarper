@@ -78,7 +78,8 @@ function init() {
     }
 
 
-    to_map.addLayers([googleSat,googleMaps,googleHybrid]);
+    to_map.addLayers([googleMaps,googleHybrid,googleSat]);
+
 
 
     if (map_has_bounds) {
@@ -89,7 +90,7 @@ function init() {
 
     } else {
       //set to the world
-        to_map.setCenter(lonLatToMercator(new OpenLayers.LonLat(0.0, 0.0)), 10);
+        to_map.setCenter(lonLatToMercator(new OpenLayers.LonLat(0.0, 0.0)), 2);
     }
 
     //style for the active, temporary vector marker, the one the user actually adds themselves,

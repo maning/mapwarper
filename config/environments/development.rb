@@ -15,6 +15,7 @@ MAPSERVER_URL = "/mapserv"  #url to the mapserv executable
 #
 #for staging.mapwarper.net ABQIAAAAUs2kl_uF_gYL9qSq4yukexSgEqVDyz1BzXtcs2sjYKHX7Ct09xQKZPVFb7DDwZR1l3CCS6uyv18asQ
 #for beta.mapwarper.net
+
 GOOGLE_MAPS_KEY="ABQIAAAAUs2kl_uF_gYL9qSq4yukexRxkxcYXm5XhASGm0Epb0TXzVu4RRQ76q3JFV3Uf57gZY19BEkCZK2xBA"
 # In the development environment your application's code is reloaded on
 # every request.  This slows down response time but is perfect for development
